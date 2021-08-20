@@ -1,0 +1,5 @@
+{
+    "port": 5595,
+    "xmppPort": 443,
+    "db": "mongodb://u2ajdiw7uvf2hbmdmuvv:qEG0C4WDlidOzizefWm6@bspox9mnwy64jcq-mongodb.services.clever-cloud.com:27017/bspox9mnwy64jcq"
+}
